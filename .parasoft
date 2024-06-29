@@ -1,0 +1,33 @@
+#Tue Apr 02 21:29:24 IST 2024
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.linux.x86=/opt/windriver/wrlinux-small/10.17.41/sysroots/x86_64-wrlinuxsdk-linux/usr/bin/arm-wrs-linux-gnueabi/arm-wrs-linux-gnueabi-gcc
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.linux.x86=/opt/windriver/wrlinux-small/10.17.41/sysroots/x86_64-wrlinuxsdk-linux/usr/bin/arm-wrs-linux-gnueabi/arm-wrs-linux-gnueabi-g++
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.linux.x86=Stryker_Linux_GCC_7.3_ARM_Cross_Compiler
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=gcc_9
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.linux.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -march\=armv7-a -marm -mfpu\=neon -mfloat-abi\=hard --sysroot\=/opt/windriver/wrlinux-small/10.17.41/sysroots/armv7ahf-neon-wrs-linux-gnueabi
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=empty_extractor_id
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.linker.command.linux.x86=/opt/windriver/wrlinux-small/10.17.41/sysroots/x86_64-wrlinuxsdk-linux/usr/bin/arm-wrs-linux-gnueabi/arm-wrs-linux-gnueabi-g++
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.linker.options.linux.x86=${cpptest\:original_options}
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+/SYK-METRIC-03-C//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path=/SYK-METRIC-03-C
+version=1
